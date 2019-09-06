@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554811197 source:d:\数据结构\第六章\calc\main.cpp
+	<iostream>
+	"linkqueue.h"
+
+1554810042 d:\数据结构\第六章\calc\linkqueue.h
+

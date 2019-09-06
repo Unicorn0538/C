@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554895917 source:d:\数据结构\第一章\dlinklist\main.cpp
+	<iostream>
+	"dlinklist.h"
+
+1554898968 d:\数据结构\第一章\dlinklist\dlinklist.h
+	<iostream>
+

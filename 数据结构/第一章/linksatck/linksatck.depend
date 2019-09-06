@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554512181 source:d:\数据结构\第一章\linksatck\main.cpp
+	<iostream>
+	"linkstack.h"
+
+1554512640 d:\数据结构\第一章\linksatck\linkstack.h
+	<iostream>
+
+1554512117 source:d:\数据结构\第一章\linksatck\linkstack.cpp
+	"linkstack.h"
+

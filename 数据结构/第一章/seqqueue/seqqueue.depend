@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553253491 source:d:\数据结构\第一章\seqqueue\main.cpp
+	<iostream>
+	"seqqueue.h"
+
+1553253603 d:\数据结构\第一章\seqqueue\seqqueue.h
+

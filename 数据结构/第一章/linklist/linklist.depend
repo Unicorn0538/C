@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554511798 source:d:\数据结构\第一章\linklist\main.cpp
+	<iostream>
+	"linklist.h"
+
+1554511652 d:\数据结构\第一章\linklist\linklist.h
+	<iostream>
+
+1552474528 source:d:\数据结构\第一章\linklist\linklist.cpp
+	"linklist.h"
+

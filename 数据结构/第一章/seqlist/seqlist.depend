@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552462853 source:d:\数据结构\第一章\seqlist\seqlist.cpp
+	"seqlist.h"
+
+1552462966 d:\数据结构\第一章\seqlist\seqlist.h
+	<iostream>
+
+1552462697 source:d:\数据结构\第一章\seqlist\main.cpp
+	<iostream>
+	"seqlist.h"
+
